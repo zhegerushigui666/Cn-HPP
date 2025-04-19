@@ -1,6 +1,6 @@
 # Privacy Redactor - 隐私信息处理工具
 
-Privacy Redactor 是一个用于识别和替换文本中隐私信息的Python工具包，支持中英文文本和Word文档处理，特别适用于医疗文本的隐私保护处理。
+Privacy Redactor 是一个用于识别和替换文本中隐私信息的Python工具包，支持中文文本和Word文档处理，特别适用于医疗文本的隐私保护处理。
 
 ## 功能特点
 
